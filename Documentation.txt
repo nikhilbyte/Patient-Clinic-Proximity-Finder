@@ -1,0 +1,14 @@
+Two Google Maps APIs were used to tackle this problem,
+Documentation can be found here: https://developers.google.com/maps/documentation/
+
+1st API is the geocoding API (https://developers.google.com/maps/documentation/geocoding/overview):
+This API is used convert all the addresses in the CSV file to Geocodes(Lat,Long)
+
+2nd API is the distance matrix API (https://developers.google.com/maps/documentation/distance-matrix/overview):
+This API is used to calculate the driving distance between two Geo-Locations.
+
+
+This is a paid Service by Google.
+The steps required to obtain the API Key can be found here: https://developers.google.com/maps/documentation/distance-matrix/get-api-key
+
+

@@ -1,0 +1,5 @@
+{
+  "clinic_file_path": "/content/clinics.csv",
+  "patients_file_path": "/content/patients.csv",
+  "API_Key": ""
+}
