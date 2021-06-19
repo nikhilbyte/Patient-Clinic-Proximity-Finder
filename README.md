@@ -19,7 +19,7 @@ clinics data sample
 ## Settings
 modify the config.json with the API key(See Document.txt).
 ## How to use
-- Training: after modifying the data location and setting the API key, run ```python Proximity_Finder.py```. 
+after modifying the data location and setting the API key, run ```python Proximity_Finder.py```. 
 
 Dependencies:
 - [numpy](https://github.com/numpy/numpy)
