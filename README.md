@@ -7,7 +7,9 @@ patients data sample
 | "ID" | "Address" | "Postal Code" | "FSA" | "City" | "Province" |
 |  ----  | ----  | ----  | ----  | ----  | ----  | 
 | 1 | 722 85 ST SW UNIT 215 | T3H 1S6 | T3H | CALGARY  | AB  | 
-ckinics data sample
+
+
+clinics data sample
 
 | "Clinic ID" | "Clinic Address" | "Postal Code" | "FSA" | "Clinic City" | "Province" |
 |  ----  | ----  | ----  | ----  | ----  | ----  | 
